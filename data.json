@@ -1,0 +1,34 @@
+[
+    {
+        "name": "ankit",
+        "age": 22,
+        "E-mail": "ankit02s@gmail.com",
+        "Pin": 123456,
+        "AccountNo": "BANK20260625000002",
+        "Balance": 270000.0,
+        "CreatedAt": "2026-06-25T16:16:24.804409",
+        "Transactions": [
+            {
+                "Type": "Account Created",
+                "Amount": 0,
+                "Balance": 0,
+                "Timestamp": "2026-06-25T16:16:24.804421",
+                "Description": "New account created"
+            },
+            {
+                "Type": "Deposit",
+                "Amount": 300000.0,
+                "Balance": 300000.0,
+                "Timestamp": "2026-06-25T16:19:31.586893",
+                "Description": "Deposited 300000.0"
+            },
+            {
+                "Type": "Withdrawal",
+                "Amount": 30000.0,
+                "Balance": 270000.0,
+                "Timestamp": "2026-06-25T16:20:40.319650",
+                "Description": "Withdrew 30000.0"
+            }
+        ]
+    }
+]
